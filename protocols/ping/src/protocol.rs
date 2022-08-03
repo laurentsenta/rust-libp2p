@@ -26,7 +26,7 @@ use rand::{distributions, prelude::*};
 use std::{io, iter, time::Duration};
 use void::Void;
 
-pub const PROTOCOL_NAME: &[u8; 16] = b"/ipfs/ping/1.0.0";
+pub const PROTOCOL_NAME: &[u8; 16] = b"/ipfs/pang/1.0.0";
 
 /// The `Ping` protocol upgrade.
 ///
